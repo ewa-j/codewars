@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="maven-osm-q2c-releases-virtual" />
+      <option name="url" value="https://bts.artifactory.tio.systems/artifactory/maven-osm-q2c-releases-virtual" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots" />
+      <option name="name" value="maven-osm-q2c-snapshots-virtual" />
+      <option name="url" value="https://bts.artifactory.tio.systems/artifactory/maven-osm-q2c-snapshots-virtual" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="eip" />
+      <option name="name" value="eip" />
+      <option name="url" value="https://nexusserver-dev.nonprod.tdmp.tio.systems/nexus/content/groups/fuseeip" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="confluent" />
+      <option name="name" value="confluent" />
+      <option name="url" value="http://packages.confluent.io/maven/" />
+    </remote-repository>
+  </component>
+</project>
