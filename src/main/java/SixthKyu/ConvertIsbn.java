@@ -1,3 +1,4 @@
+package SixthKyu;
 //https://www.codewars.com/kata/61ce25e92ca4fb000f689fb0
 
 import java.util.ArrayList;
